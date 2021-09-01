@@ -7,9 +7,9 @@
     "jupyterlab",
     "jupyterlab-extension"
   ],
-  "homepage": "git@railsonsousa106.github.com:/railsonsousa/jupyterlab-iolab-theme",
+  "homepage": "https://github.com/railsonsousa/jupyterlab-iolab-theme",
   "bugs": {
-    "url": "git@railsonsousa106.github.com:/railsonsousa/jupyterlab-iolab-theme/issues"
+    "url": "https://github.com/railsonsousa/jupyterlab-iolab-theme/issues"
   },
   "license": "BSD-3-Clause",
   "author": "Railson Sousa",
