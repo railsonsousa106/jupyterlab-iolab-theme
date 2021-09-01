@@ -1,6 +1,6 @@
 # jupyterlab_iolab_theme
 
-![Github Actions Status](git@railsonsousa106.github.com:/railsonsousa/jupyterlab-iolab-theme/workflows/Build/badge.svg)
+![Github Actions Status](https://github.com/railsonsousa106/jupyterlab-iolab-theme/workflows/Build/badge.svg)
 
 IO Lab's JupyterLab Theme
 
